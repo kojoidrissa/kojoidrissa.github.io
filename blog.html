@@ -76,6 +76,26 @@
         <p>The <code>form</code> element,  &lt;form&gt; requires an <code>action</code> attribute and <em>should</em> have a <code>method</code> and <code>id</code> attribute.
         </p>
 
+        <p>The <code>method</code> attribute will be <code>get</code> or <code>put</code>. It defaults to <code>get</code> if no method is specified (although it's best to give one). The <code>id</code> attribute behaves like it does in other elements.
+        </p>
+
+        <form action="http://www.example.com/subscribe.php" method="get">
+            <p>This is where the form controls will appear. Or, <b>would</b>, if we used an <code>input</code> element to provide them
+            </p>
+
+            <p>Username:
+                <input type="text" name="username" size="15" maxlength="30" />
+            </p>
+        </form>
+
+        <p>Each form control (created by the <code>input</code> element) requires a name attribute, to identify the data being entered. The <code>type</code> attribute determines what KIND of form control is used.  The <code>size</code> attribute is depricated, with CSS handling those duties now. <code>maxlength</code> is used to control the length of the data being entered.
+        </p>
+
+        <h3>Various input types and their controls</h3>
+        <ul>
+            <li>text: single-line text field</li>
+            <li>password: as above, but with the entered charachters hidden.
+
 
     </body>
 
