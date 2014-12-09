@@ -95,10 +95,18 @@
         </p>
 
         <h3>Various input types and their controls</h3>
+        <p>These take the form <code> &lt;input type="TYPENAME" /&gt;</code> in your HTML.</p>
         <ul>
-            <li>text: single-line text field</li>
-            <li>password: as above, but with the entered characters hidden. They're only hidden from view, not secured or encrypted.</li>
-            <li>radio: allows users to choose 1 and ONLY 1 of multiple options</li>
+            <li><code>text</code>: single-line text field</li>
+            <li><code>password</code>: as above, but with the entered characters hidden. They're only hidden from view, not secured or encrypted.</li>
+            <li><code>radio</code>: allows users to choose 1 and ONLY 1 of multiple options</li>
+            <ul>
+                <li>The <code>name</code> attribute names the type of question being asked. All questions of the same category should share the same name attribute.</li>
+                <li>The <code>value</code> attribute tells the server which answer has been selected. The value for every radio button should be unique w/in a group of questions
+                </li>
+            </ul>
+            <li><code>checkbox</code>: allows users to choose more than one answer. The <code>name</code> and <code>value</code> attributes</li> function as with the radio type above.
+
         </ul>
 
 
