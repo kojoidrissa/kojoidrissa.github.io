@@ -3,12 +3,12 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Kojo Idrissa'
-SITENAME = 'Kojo "Kodejo" Idrissa on Github page'
+SITENAME = 'Kojo "Kodejo" Idrissa on Github'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
 
