@@ -27,7 +27,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+          ('Domain Registration by Hover', 'https://hover.com/uiBoFuue'),)
 
 DEFAULT_PAGINATION = 5
 
