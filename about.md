@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Secret Origin
 permalink: /about/
 ---
 
