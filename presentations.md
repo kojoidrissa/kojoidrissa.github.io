@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentations & Community Activity
+title: Presentations & Contributions
 permalink: /presentations/
 ---
 For now, kinda of an ugly list. One day I'll make this look nicer.
