@@ -4,14 +4,23 @@ title: Presentations & Contributions
 permalink: /presentations/
 ---
 For now, kinda of an ugly list. One day I'll make this look nicer.
+## Community Activity
+-  [Django Events Foundation North America](https://www.defna.org/)(DEFNA)
+    +  Board Member, Jul 2017-Present
 
+## Conference Activity
+-  DjangoCon US, San Diego, CA Oct 2018
+    +  Organizer: Orientation Chair , Lightning Talk Chair, and Sprints Chair
+-  PyCaribbean, Santo Domingo, Dominican Republic Feb 2018
+    +  Python & Spreadsheets: An Introduction to Programming (workshop)
+    +  Software Engineering for Beginners (presentation)
 -  PyCascades, Vancouver, British Columbia, Canada Jan 2018
-    +  Python and Spreadsheets: 2018 Edition
+    +  [Python and Spreadsheets: Canadian Edition](https://www.pycascades.com/talks/python-spreadsheets-2018-edition/)
 -  PyCon Canada, Montreal, Quebec, Canada Nov 2017
     +  [Python and Spreadsheets: 2017 Edition](https://2017.pycon.ca/schedule/15/)
 -  DjangoCon US, Spokane, WA Aug 2017
     -  Presenter: [Python and Spreadsheets: 2017 Edition](https://www.youtube.com/watch?v=ewYminvBly8)
-    -  Organizer: Orientation Chair , Lightning Talk Chair, and Sprints Chair
+    -  Organizer: [Orientation Chair , Lightning Talk Chair, and Sprints Chair](https://2017.djangocon.us/organizers/)
 -  PyOhio, Columbus, OH Jul 2017
     -  [Python and Spreadsheets: 2017 Edition](https://www.youtube.com/watch?v=X5Ak0aTuKMA&index=9&list=PLFGkbiAPBMsT1Se0dHFTIvZ2AjPBJO-nQ)
 -  PyCon US, Portland, OR May 2017
