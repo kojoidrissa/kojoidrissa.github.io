@@ -44,8 +44,6 @@ Here are some reasons you might have seen or heard me.
     -  [Lightning Talk: Software Engineering for Beginners](https://youtu.be/tK6ZIf0yYhs?t=16m47s)
 -  PyDX, Portland, OR Oct 2, 2016
     -  [Increasing Inclusion with Privilege Arbitrage](https://www.youtube.com/watch?v=ujctFmPyxFU)
-<!-- -  DjangoCon US, Philadelphia, PA Jul 2016
-    -  Organizer: Orientation Chair and Lightning Talk Chair -->
 -  DjangoCon US, Austin, TX Sep 2015
     -  [How to Practice Inclusion and Benefit Django](https://www.youtube.com/watch?v=7UCw57RcBJo)
 -  AlterConf 2015-2016
