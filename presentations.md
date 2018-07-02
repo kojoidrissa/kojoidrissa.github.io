@@ -3,14 +3,21 @@ layout: page
 title: Presentations & Contributions
 permalink: /presentations/
 ---
-For now, kind of an ugly list. One day I'll make this look nicer.
+Here are some reasons you might have seen or heard me.
 ## Community Activity
 -  [Django Events Foundation North America](https://www.defna.org/)(DEFNA)
     +  Board Member, Jul 2017-Feb 2018
+-  DjangoCon US Organizer (2016-present)
+    +  San Diego, CA Oct 2018
+        +  [Orientation Chair, Lightning Talk Chair, and Sprints Chair](https://2018.djangocon.us/organizers/)
+    -  Spokane, WA Aug 2017
+        +  [Orientation Chair, Lightning Talk Chair, and Sprints Chair](https://2017.djangocon.us/organizers/)
+    -  Philadelphia, PA Jul 2016
+        +  [Orientation Chair and Lightning Talk Chair](https://2016.djangocon.us/organizers/)
 
 ## Conference Activity
--  DjangoCon US, San Diego, CA Oct 2018
-    +  Organizer: Orientation Chair , Lightning Talk Chair, and Sprints Chair
+<!-- -  DjangoCon US, San Diego, CA Oct 2018
+    +  Organizer: Orientation Chair , Lightning Talk Chair, and Sprints Chair -->
 -  PyCon AU, Sydney, NSW, Australia Aug 2018
     +  co-lead [First-Timer's Session](https://2018.pycon-au.org/talks/899-first-timers-session/)
     +  [Python & Spreadsheets: Year of the Dog Edition](https://2018.pycon-au.org/talks/45310-python-spreadsheets-earth-dog-edition/)
@@ -30,15 +37,15 @@ For now, kind of an ugly list. One day I'll make this look nicer.
     +  [Python and Spreadsheets: 2017 Edition](https://www.youtube.com/watch?v=Q-b9p0ETdqo&index=12&list=PLFGkbiAPBMsT1Se0dHFTIvZ2AjPBJO-nQ)
 -  DjangoCon US, Spokane, WA Aug 2017
     -  Presenter: [Python and Spreadsheets: 2017 Edition](https://www.youtube.com/watch?v=ewYminvBly8)
-    -  Organizer: [Orientation Chair , Lightning Talk Chair, and Sprints Chair](https://2017.djangocon.us/organizers/)
+    <!-- -  Organizer: [Orientation Chair , Lightning Talk Chair, and Sprints Chair](https://2017.djangocon.us/organizers/) -->
 -  PyOhio, Columbus, OH Jul 2017
     -  [Python and Spreadsheets: 2017 Edition](https://www.youtube.com/watch?v=X5Ak0aTuKMA&index=9&list=PLFGkbiAPBMsT1Se0dHFTIvZ2AjPBJO-nQ)
 -  PyCon US, Portland, OR May 2017
     -  [Lightning Talk: Software Engineering for Beginners](https://youtu.be/tK6ZIf0yYhs?t=16m47s)
 -  PyDX, Portland, OR Oct 2, 2016
     -  [Increasing Inclusion with Privilege Arbitrage](https://www.youtube.com/watch?v=ujctFmPyxFU) 
--  DjangoCon US, Philadelphia, PA Jul 2016
-    -  Organizer: Orientation Chair and Lightning Talk Chair
+<!-- -  DjangoCon US, Philadelphia, PA Jul 2016
+    -  Organizer: Orientation Chair and Lightning Talk Chair -->
 -  DjangoCon US, Austin, TX Sep 2015
     -  [How to Practice Inclusion and Benefit Django](https://www.youtube.com/watch?v=7UCw57RcBJo)
 -  AlterConf 2015-2016
