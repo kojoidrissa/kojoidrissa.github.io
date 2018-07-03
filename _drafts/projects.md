@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Projects
 ---
-<!-- When I'm ready to publish, add `permalink: /projects/` to the header -->
+<!-- When I'm ready to publish, add `permalink: /projects/` and `title: Projects` to the Front Matter -->
 
 IS THIS EVEN CHANGING?
 
