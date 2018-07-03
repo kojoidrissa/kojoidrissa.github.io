@@ -3,6 +3,9 @@ layout: page
 title: Projects
 ---
 <!-- When I'm ready to publish, add `permalink: /projects/` to the header -->
+
+IS THIS EVEN CHANGING?
+
 This is where I'll list the projects I'm working on. Some of that info will come from [these ideas](https://github.com/kojoidrissa/random_30Day_code/blob/master/projects.md)  Other info will come from other documents.
 
 I'll probably also make this a multi-purpose projects page.
