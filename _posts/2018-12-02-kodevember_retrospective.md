@@ -25,4 +25,4 @@ So, Kodevember came to halt the week of Thanksgiving. I spent that week preparin
 For those keeping score at home, that's 5 days of flights over 8 days. The other 3 days were Funeral, Conference Talk, "Busy Day at Home".  As I was trying to work the various scheduling points out, I KNEW I'd be busy. I did NOT plan on being sick for 1/2 of the week.
 
 ## UPDATE
-I got home yesterday, took a shower and a nap. Then I woke up, went and got dinner, and went BACK to bed. I'm about to do the same now. We'll see what I do about coding in December. There's always something to overcome.
+I got home yesterday, took a shower and a nap. Then I woke up, went and got dinner, and went BACK to bed. I'm about to do the same now. We'll see what I do about coding in December. There's always something to overcome. It's tough, but I have to recover & keep pushing forward. As the saying goes: the only way out, is through.
