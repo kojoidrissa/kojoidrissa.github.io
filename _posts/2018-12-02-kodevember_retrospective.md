@@ -3,7 +3,7 @@ layout: post
 title: "Kodevember Retrospective: Different From What I Expected"
 date: 2018-12-02T14:53:11-06:00
 update: 2018-12-03T20:47:49-06:00
-categories: [Kodevember, code challenge]
+categories: [Kodevember, retrospective]
 ---
 So, Kodevember came to halt the week of Thanksgiving. I spent that week preparing for my trip to DC for my aunt's funeral the following week. I was also trying to figure out the scheduling for that week, since I was already scheduled to be in Mexico at the end of that week (Thur-Sun). And I had things scheduled for the 1st 1/2 of the the week after Thanksgiving, which would have to be moved. So, my week after Thanksgiving looked like this:
 
