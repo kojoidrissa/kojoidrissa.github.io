@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PythonDayMX18: Follow Up"
-date: 2018-12-07T13:24:24-06:00
+date: 2018-12-07T13:24:49-06:00
 update: 
 categories: [conferences, NorAmGT]
 ---
