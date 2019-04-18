@@ -16,8 +16,11 @@ Here are some reasons you might have seen or heard me.
         +  [Orientation Chair and Lightning Talk Chair](https://2016.djangocon.us/organizers/)
 
 ## Conference Activity
-<!-- -  DjangoCon US, San Diego, CA Oct 2018
-    +  Organizer: Orientation Chair , Lightning Talk Chair, and Sprints Chair -->
+-  Python Day MX, Guadalajara, Jalisco, Mexico Dec 2018
+    +  Software Engineering for Beginners
+-  DjangoCon US, San Diego, CA Oct 2018
+    +  Organizer: Orientation Chair , Lightning Talk Chair, and Sprints Chair
+    +  Panelist:[ "State of Django"](https://www.youtube.com/watch?v=TrAFQW7Wza0) Panel
 -  PyCon AU, Sydney, NSW, Australia Aug 2018
     +  co-lead [First-Timer's Session](https://2018.pycon-au.org/talks/899-first-timers-session/)
     +  [Python & Spreadsheets: Year of the Dog Edition](https://2018.pycon-au.org/talks/45310-python-spreadsheets-earth-dog-edition/)
