@@ -16,3 +16,6 @@ In US culture, we often downplay the importance of rest, recovery, or taking car
 As I've tried to share this message with other folks, I'm realizing I ALSO need to heed it myself. The last few months have been full of ups and downs and more than one unexpected twist. But it's VERY hard to deal with those, or even the normal, expected challenges in life, if you're worn out. So, if you want to do more IN TOTAL, consider making regular time to DO LESS in the short term, and give yourself plenty of time to rest and recover.
 
 If you're going to PyCon, that might mean not trying to go to EVERY talk or event or function, depending on your personal energy reserves and how well you deal with crowds. PyCon is HUGE and even I *(bigger than most people, fairly outgoing when it's needed, and with a decent sized group of friends at these things)* can get overwhelmed. So, there's no shame in feeling like you need some 'alone time' or being overwhelmed. Many software developers are a bit on the introverted side anyway, so big crowds can be tough for a lot of us. If this is your first PyCon US or you're here alone, it can be even more challenging. Don't be afraid to take some time for yourself.
+
+I'll be around at PyCon this year. I'm pretty easy to spot. If you found this helpful, feel free to say hi.
+🙋🏾‍♂️
