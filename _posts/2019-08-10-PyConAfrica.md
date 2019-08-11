@@ -3,7 +3,7 @@ layout: post
 title: "PyCon Africa: A Brief Retrospective"
 date: 2019-08-10T18:43:16+00:00
 update: 
-categories: [conferences, NorAmGT]
+categories: [conferences, NorAmGT, PyCon Africa]
 ---
 As I start to type this, the FIRST EVER [PyCon Africa](https://africa.pycon.org/) has ended. Today was the final day, with a couple of tutorials and the Development Sprints we've come to expect at the end of things with "PyCon" in their name. I was fortunate enough to be invited to be a keynote speaker. ![PyCon Africa 2019 Keynote Speakers](/assets/PyConAfrica_keynotes.png) I'd also submitted a tutorial, [*A Junior Developer's Software Engineering Tutorial*](https://github.com/kojoidrissa/pyconafrica_tutorial), which was accepted, so I gave that was well.
 
