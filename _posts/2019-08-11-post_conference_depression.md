@@ -19,7 +19,7 @@ Don't feel BAD about this: it's a real thing, and it's NOT just happening to you
 Here's where I become LESS helpful: I don't do a great job of dealing with this myself. But I'm working on it. Here are some things I've heard people suggest, as well as things I'm planning to try after PyCon Africa.
 
 ## Self Care
-During these times, it's more important than ever to make sure you take care of yourself. That means things like eating well, getting enough sleep (a conference WILL make you tired), staying hydrated and exercising. Even if it's just going for a slightly longer walk, keeping your body moving can help your mood. At DjangoCon US, I'm always reminding people to `#SelfCareSprint`. These are like the Development Sprints we had at PyCon Africa Saturday, but instead of code, they focus on you taking care of yourself.
+During these times, it's more important than ever to make sure you take care of yourself. That means things like eating well, getting enough sleep (a conference WILL make you tired), staying hydrated and exercising. Even if it's just going for a slightly longer walk, keeping your body moving can help your mood. At [DjangoCon US](https://2019.djangocon.us/), I'm always reminding people to `#SelfCareSprint`. These are like the Development Sprints we had at PyCon Africa Saturday, but instead of code, they focus on you taking care of yourself.
 
 Besides the ways I mentioned above, you can also do things like making time to connect with local friends and family. You can also make sure you stay in touch with new friends you've made. Maintaining quality relationships is important for your mental and physical health. You can also meditate. It doesn't have to be anything fancy, just find something that works for you.
 
