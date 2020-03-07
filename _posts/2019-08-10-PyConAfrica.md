@@ -2,6 +2,7 @@
 layout: post
 title: "PyCon Africa: A Brief Retrospective"
 date: 2019-08-10T18:43:16+00:00
+image: /assets/PyConAfrica_keynotes.png
 update: 
 categories: [conferences, NorAmGT, PyCon Africa]
 ---
